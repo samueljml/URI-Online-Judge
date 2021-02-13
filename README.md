@@ -1,3 +1,3 @@
 # URI Online Judge Soluções
 
-Repositório de soluções de exercícios do [URI Online Judge](https://blog.da2k.com.br). Resolvendo problemas em C, C++, Python e Java. Também pode acessar meu perfil [aqui](https://www.urionlinejudge.com.br/judge/pt/profile/226696).
+Repositório com algumas de minhas soluções do [URI Online Judge](https://www.urionlinejudge.com.br/). A maioria dos exercícios foram resolvidos em C, C++, Python e Java. Meu perfil no site pode ser acessado por [aqui](https://www.urionlinejudge.com.br/judge/pt/profile/226696).
